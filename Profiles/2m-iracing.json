@@ -358,6 +358,11 @@
     "enable_drs_beeps": true,
     "just_the_facts": false,
     "launch_asr": false,
-    "speak_only_when_spoken_to": false
+    "speak_only_when_spoken_to": false,
+    "enable_mqtt_telemetry": false,
+    "mqtt_topic_drivername": "Jim",
+    "pause_between_message_fragments": 0,
+    "report_fuel_laps_left_in_timed_races": false,
+    "rf2_enable_auto_clear_tyre_change": true
   }
 }
