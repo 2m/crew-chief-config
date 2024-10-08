@@ -363,6 +363,7 @@
     "mqtt_topic_drivername": "Jim",
     "pause_between_message_fragments": 0,
     "report_fuel_laps_left_in_timed_races": false,
-    "rf2_enable_auto_clear_tyre_change": true
+    "rf2_enable_auto_clear_tyre_change": true,
+    "use_fuzzy_driver_name_matching": true
   }
 }
