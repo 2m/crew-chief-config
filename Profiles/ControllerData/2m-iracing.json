@@ -1421,6 +1421,33 @@
       "povValue": 0,
       "opponentDataCommand": false,
       "availableAction": true
+    },
+    {
+      "action": "SET_FUEL_STRATEGY_CAUTIOUS",
+      "deviceGuid": "",
+      "buttonIndex": -1,
+      "usePovData": false,
+      "povValue": 0,
+      "opponentDataCommand": false,
+      "availableAction": false
+    },
+    {
+      "action": "SET_FUEL_STRATEGY_RESET",
+      "deviceGuid": "",
+      "buttonIndex": -1,
+      "usePovData": false,
+      "povValue": 0,
+      "opponentDataCommand": false,
+      "availableAction": false
+    },
+    {
+      "action": "SET_FUEL_STRATEGY_RISKY",
+      "deviceGuid": "",
+      "buttonIndex": -1,
+      "usePovData": false,
+      "povValue": 0,
+      "opponentDataCommand": false,
+      "availableAction": false
     }
   ]
 }
